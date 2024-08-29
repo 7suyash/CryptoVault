@@ -16,7 +16,7 @@ Clone the repository:
 
 * bash
 Copy code
-git clone https://github.com/yourusername/cryptowallet.git
+git clone https://github.com/7suyash/metamask-clone
 Navigate to the project directory:
 
 bash
