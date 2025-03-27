@@ -6,8 +6,8 @@ This project is a basic cryptocurrency wallet developed as part of a mini-projec
 
  
 
-* Features
-Simple User Interface: A clean and minimalistic UI to manage cryptocurrency balances.
+* Featuresb
+Simple User Interface:  A clean and minimalistic UI to manage cryptocurrency balances.
 Offline Functionality: The wallet is not extensively connected to the internet, ensuring basic operations can be performed offline.
 Basic Operations: Users can add and view their cryptocurrency balances.
 Technologies Used
