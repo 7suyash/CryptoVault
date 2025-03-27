@@ -4,7 +4,7 @@ A Basic Cryptocurrency Wallet
 * Overview
 This project is a basic cryptocurrency wallet developed as part of a mini-project. It allows users to manage their cryptocurrency balances and perform basic operations. So that you know, this wallet is not fully connected to the internet and primarily functions as an offline tool for demonstration purposes.
 
-
+ 
 
 * Features
 Simple User Interface: A clean and minimalistic UI to manage cryptocurrency balances.
