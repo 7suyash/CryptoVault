@@ -14,7 +14,7 @@ Basic Operations: Users can add and view their cryptocurrency balances.
 Technologies Used
 Frontend: HTML, CSS, JavaScript
 Backend: mongodb
-Libraries/Frameworks: [till now none]
+Libraries/Frameworks: [till now none].
 * How to Run
 Clone the repository:
 
