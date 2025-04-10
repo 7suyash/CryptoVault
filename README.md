@@ -50,3 +50,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 feel free to contribute 
+mail : suyashdhulap@gmail.com
